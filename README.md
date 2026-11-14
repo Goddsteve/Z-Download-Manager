@@ -1,6 +1,9 @@
 # Z-Download-Manager
 Alternative download manager for browsers
 
+IMPORTANT!
+put the "background.js and manifest.json" in a folder before adding it as an extension to the browser. PS i cant upload it on git with the folder sorry :<
+
 
 Step 1: Add the extension to your browser
 
